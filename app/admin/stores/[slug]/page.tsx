@@ -50,8 +50,9 @@ import { Product } from "@/data/products";
 import { ImageUploadField } from "@/components/ImageUploadField";
 import { CATEGORIES_DATA } from "@/data/mockupData";
 import { useAuth } from "@/context/AuthContext";
+import { Suspense } from "react";
 
-export default function VendorStoreAdminPage() {
+function VendorStoreAdminContent() {
   const params = useParams();
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -1587,5 +1588,13 @@ export default function VendorStoreAdminPage() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function VendorStoreAdminPage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-xs font-mono text-neutral-400">Yüklənir...</div>}>
+      <VendorStoreAdminContent />
+    </Suspense>
   );
 }

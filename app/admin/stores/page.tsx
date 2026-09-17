@@ -39,8 +39,9 @@ import {
   Image as ImageIcon
 } from "lucide-react";
 import confetti from "canvas-confetti";
+import { Suspense } from "react";
 
-export default function AdminStoresPage() {
+function AdminStoresContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const initialStatus = (searchParams?.get("status") as any) || "all";
@@ -1025,5 +1026,13 @@ export default function AdminStoresPage() {
       )}
 
     </div>
+  );
+}
+
+export default function AdminStoresPage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-xs font-mono text-neutral-400">Yüklənir...</div>}>
+      <AdminStoresContent />
+    </Suspense>
   );
 }
