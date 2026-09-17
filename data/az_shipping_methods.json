@@ -1,0 +1,30 @@
+[
+  {
+    "id": "metro",
+    "name": "Metrolara Çatdırılma",
+    "description": "Bakı metrosunun istənilən stansiyasının çıxışına",
+    "price": 5,
+    "enabled": true
+  },
+  {
+    "id": "address",
+    "name": "Ünvana Kuryerlə Çatdırılma (Bakı daxili)",
+    "description": "Qapıya birbaşa kuryer vasitəsilə sürətli çatdırılma",
+    "price": 8,
+    "enabled": true
+  },
+  {
+    "id": "regions",
+    "name": "Azərpoçt ilə Rayonlara Çatdırılma",
+    "description": "Azərbaycanın bütün bölgə və kəndlərinə poçt şöbəsi vasitəsilə",
+    "price": 6,
+    "enabled": true
+  },
+  {
+    "id": "pickup",
+    "name": "Atelyedən Təhvil Alma (Nizami küç.)",
+    "description": "Bakı atelyemizə yaxınlaşaraq ödənişsiz təhvil alın",
+    "price": 0,
+    "enabled": true
+  }
+]

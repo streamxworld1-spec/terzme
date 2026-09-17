@@ -1,0 +1,20 @@
+{
+  "siteName": "TERZME",
+  "siteTagline": "Avant-Garde Streetwear & Atelier",
+  "siteDescription": "Futuristic Glassmorphic Fashion Experience by TERZME ATELIER BAKU",
+  "announcementText": "Dünyanın 196 ölkəsinə çatdırılma xidməti aktivdir",
+  "announcementEnabled": false,
+  "announcementLink": "/collection",
+  "freeShippingThreshold": 150,
+  "shippingCoverage": "Dünyanın 196 ölkəsi",
+  "shippingNote": "Bütün 196 ölkə üzrə qlobal çatdırılma xidməti aktivdir.",
+  "contactPhone": "+994 50 222 33 44",
+  "contactEmail": "contact@terzme.com",
+  "contactAddress": "Nizami küçəsi 42, Bakı, Azərbaycan",
+  "instagramHandle": "@terzme.az",
+  "telegramHandle": "terzme_baku",
+  "currency": "AZN",
+  "announcement": "",
+  "standardShippingFee": 5,
+  "instagramUrl": "https://instagram.com"
+}

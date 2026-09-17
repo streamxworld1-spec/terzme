@@ -1,0 +1,91 @@
+[
+  {
+    "id": "usr_super_admin",
+    "name": "Super Admin",
+    "username": "admin",
+    "email": "admin@platform.local",
+    "password": "terzme1234",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Admin&backgroundColor=07241a",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr_vendor_stx",
+    "name": "STX Studio",
+    "username": "stx",
+    "email": "iamgazanfar@gmail.com",
+    "password": "password123",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=STX&backgroundColor=07241a",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-01-15T00:00:00.000Z",
+    "ownedStoreSlug": "stx",
+    "ownedStoreName": "stx"
+  },
+  {
+    "id": "usr_vendor_terzme",
+    "name": "TERZME Store",
+    "username": "terzme_store",
+    "email": "store@terzme.az",
+    "password": "password123",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=TERZME&backgroundColor=07241a",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-01-10T00:00:00.000Z",
+    "ownedStoreSlug": "terzme-store",
+    "ownedStoreName": "TERZME STORE"
+  },
+  {
+    "id": "usr_vendor_aggara",
+    "name": "AG'GARA Studio",
+    "username": "aggara",
+    "email": "info@aggara.az",
+    "password": "password123",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=AGGARA&backgroundColor=07241a",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-01-20T00:00:00.000Z",
+    "ownedStoreSlug": "ag-gara",
+    "ownedStoreName": "AG'GARA"
+  },
+  {
+    "id": "usr_vendor_sabah",
+    "name": "SABAH Store",
+    "username": "sabah_store",
+    "email": "store@sabahfc.az",
+    "password": "password123",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=SABAH&backgroundColor=07241a",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-01-25T00:00:00.000Z",
+    "ownedStoreSlug": "sabah-store",
+    "ownedStoreName": "SABAH STORE"
+  },
+  {
+    "id": "usr_vendor_urban",
+    "name": "Urban Goods",
+    "username": "urban_goods",
+    "email": "hello@urbangoods.az",
+    "password": "password123",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Urban&backgroundColor=07241a",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-02-01T00:00:00.000Z",
+    "ownedStoreSlug": "urban-goods",
+    "ownedStoreName": "Urban Goods"
+  },
+  {
+    "id": "usr_vendor_zerotohero",
+    "name": "zerotohero",
+    "username": "zerotohero",
+    "email": "streamxworld1@gmail.com",
+    "password": "password123",
+    "avatar": "/uploads/1789673076015-q2mw28.jpg",
+    "role": "vendor",
+    "status": "active",
+    "createdAt": "2026-09-17T19:37:24.717Z",
+    "ownedStoreSlug": "zerotohero",
+    "ownedStoreName": "zerotohero"
+  }
+]

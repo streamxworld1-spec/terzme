@@ -1,0 +1,996 @@
+[
+  {
+    "id": "custom-1789209266328",
+    "code": "TZ-CUSTOM-01",
+    "categoryNumber": "99",
+    "name": "SALAM",
+    "subtitle": "ATELIER EDITION",
+    "designer": "BAKU STREETWEAR",
+    "price": 30,
+    "currency": "$",
+    "season": "EDITION 2026",
+    "category": "t-shirts",
+    "categories": [
+      "t-shirts"
+    ],
+    "featured": true,
+    "mainImage": "/uploads/1789209261374-9tydd9.png",
+    "images": [
+      "/uploads/1789209261374-9tydd9.png"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#000000"
+      }
+    ],
+    "badge": "YENİ",
+    "description": "SALAM SALAM",
+    "story": "Şəhər ritmi və müasir dəb fəlsəfəsinin harmoniyası.",
+    "details": {
+      "title": "SALAM",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "ATELIER REINFORCED STITCH",
+        "PRE-SHRUNK 100% COTTON",
+        "280 GSM PREMIUM JERSEY"
+      ],
+      "lining": "100% Premium Pambıq",
+      "pocket": "Xüsusi Atelye Cibi",
+      "composition": "100% Premium Pambıq",
+      "weight": "450 GSM Heavyweight",
+      "fit": "Oversized Boxy Fit",
+      "origin": "Bakı, Azərbaycan"
+    },
+    "specifications": {
+      "stitch": "Double-needle reinforced",
+      "ribbing": "1x1 heavy spandex rib",
+      "hardware": "Custom matte hardware",
+      "preShrunk": true
+    },
+    "measurements": {
+      "chest": "68cm",
+      "length": "74cm",
+      "sleeve": "62cm",
+      "shoulder": "60cm"
+    },
+    "careInstructions": [
+      "30°C-də tərs üzünə yuyun",
+      "Ağardıcıdan istifadə etməyin"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod-01",
+    "code": "TZ-01",
+    "categoryNumber": "01",
+    "name": "AZERBAIJAN FLEECE HOODIE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 119,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "AUTUMN ARCHIVE 2026",
+    "category": "hoodies",
+    "featured": true,
+    "details": {
+      "title": "AZERBAIJAN FLEECE HOODIE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "TERZME EMBROIDERY AT CHEST",
+        "KANGAROO ERGONOMIC POCKET",
+        "HEAVY RIBBED CUFFS"
+      ],
+      "lining": "100% ORGANIC COTTON",
+      "pocket": "100% COTTON",
+      "composition": "HEAVYWEIGHT 450 GSM FRENCH TERRY"
+    },
+    "mainImage": "/hoodie/hoodie-main.png",
+    "sideImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "ATELIER ARCHIVE",
+    "hotspots": [
+      {
+        "id": "hs-1",
+        "x": 48,
+        "y": 49,
+        "label": "FLEECE",
+        "sublabel": "450 GSM French Terry",
+        "value": "119$"
+      },
+      {
+        "id": "hs-2",
+        "x": 58,
+        "y": 48,
+        "label": "DETAILS",
+        "sublabel": "Hand-finished Baku",
+        "value": "EDITION 2026"
+      }
+    ],
+    "colors": [
+      "#d8cbbf",
+      "#202022",
+      "#84827d"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "450 GSM Heavyweight Terry",
+      "Pre-shrunk organic cotton",
+      "Relaxed boxy silhouette"
+    ]
+  },
+  {
+    "id": "prod-02",
+    "code": "TZ-02",
+    "categoryNumber": "02",
+    "name": "COSMIC SHELL JACKET",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 245,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "DROP 01 // 2026",
+    "category": "new-arrivals",
+    "featured": true,
+    "details": {
+      "title": "COSMIC SHELL JACKET",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "WEATHERPROOF 3-LAYER MATRIX",
+        "HIDDEN RFID ATELIER POCKET",
+        "MAGNETIC COLLAR FASTENING"
+      ],
+      "lining": "60% NYLON GORE MEMBRANE",
+      "pocket": "100% RIPSTOP",
+      "composition": "TECHNICAL 3-LAYER WATERPROOF"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "TECHNICAL OUTERWEAR",
+    "hotspots": [
+      {
+        "id": "hs-3",
+        "x": 50,
+        "y": 45,
+        "label": "SHELL FABRIC",
+        "sublabel": "tri-layer membrane",
+        "value": "245$"
+      }
+    ],
+    "colors": [
+      "#b5b9be",
+      "#1a1c23",
+      "#3d4841"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Storm-proof seams",
+      "Reflective 3M detailing",
+      "Integrated harness loop"
+    ]
+  },
+  {
+    "id": "prod-03",
+    "code": "TZ-03",
+    "categoryNumber": "03",
+    "name": "BAKU TAPESTRY GRAPHIC TEE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 65,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "ICONIC ARCHIVE",
+    "category": "t-shirts",
+    "featured": true,
+    "details": {
+      "title": "BAKU TAPESTRY GRAPHIC TEE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "AZERBAIJAN CARPET SILKSCREEN PRINT",
+        "DROP-SHOULDER BOXY FIT",
+        "THICK 1.25 INCH COLLAR"
+      ],
+      "lining": "100% COMBED COTTON",
+      "pocket": "NONE",
+      "composition": "280 GSM HEAVYWEIGHT JERSEY"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "GRAPHIC APPAREL",
+    "hotspots": [
+      {
+        "id": "hs-4",
+        "x": 50,
+        "y": 50,
+        "label": "COTTON",
+        "sublabel": "280 GSM Ring-Spun",
+        "value": "65$"
+      }
+    ],
+    "colors": [
+      "#111111",
+      "#faf8f5",
+      "#3a3835"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Heavyweight 280 GSM jersey",
+      "Garment dyed for vintage hand-feel",
+      "Reinforced twin-needle stitching"
+    ]
+  },
+  {
+    "id": "prod-04",
+    "code": "TZ-04",
+    "categoryNumber": "04",
+    "name": "MONOGRAM FLEECE SWEATER",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 135,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "BESTSELLER PERMANENT",
+    "category": "bestsellers",
+    "featured": true,
+    "details": {
+      "title": "MONOGRAM FLEECE SWEATER",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "EMBOSSED JACQUARD MONOGRAM",
+        "CREWNECK OVERSIZED FIT",
+        "CUSTOM METAL BRAND TAG"
+      ],
+      "lining": "100% BRUSHED FLEECE",
+      "pocket": "NONE",
+      "composition": "450 GSM DOUBLE-KNIT COTTON"
+    },
+    "mainImage": "/hoodie/hoodie-white.png",
+    "sideImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "SIGNATURE PIECE",
+    "hotspots": [
+      {
+        "id": "hs-5",
+        "x": 52,
+        "y": 48,
+        "label": "JACQUARD",
+        "sublabel": "Azeri Pattern Monogram",
+        "value": "135$"
+      }
+    ],
+    "colors": [
+      "#f2efe9",
+      "#18181b",
+      "#78716c"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Double-knit 450 GSM construction",
+      "Tactile embossed monogram",
+      "Tailored boxy hem"
+    ]
+  },
+  {
+    "id": "prod-05",
+    "code": "TZ-05",
+    "categoryNumber": "05",
+    "name": "RAW EDGE OVERSIZED HOODIE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 125,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "AUTUMN ARCHIVE 2026",
+    "category": "hoodies",
+    "featured": true,
+    "details": {
+      "title": "RAW EDGE OVERSIZED HOODIE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "DISTRESSED RAW HEM EDGES",
+        "HEAVY DOUBLE-LAYER HOOD",
+        "TERZME WOVEN LABEL"
+      ],
+      "lining": "100% FRENCH TERRY",
+      "pocket": "HIDDEN SEAM POCKETS",
+      "composition": "450 GSM HEAVYWEIGHT FLEECE"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "ATELIER DISTRESSED",
+    "hotspots": [
+      {
+        "id": "hs-6",
+        "x": 50,
+        "y": 50,
+        "label": "DISTRESSED",
+        "sublabel": "Hand-finished edge",
+        "value": "125$"
+      }
+    ],
+    "colors": [
+      "#242426",
+      "#8a857e",
+      "#ded9d2"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Distressed seams",
+      "Heavy draped hood",
+      "Pre-washed finish"
+    ]
+  },
+  {
+    "id": "prod-06",
+    "code": "TZ-06",
+    "categoryNumber": "06",
+    "name": "BUTTA ARCHIVE GRAPHIC TEE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 70,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "EDITION 2026",
+    "category": "t-shirts",
+    "featured": false,
+    "details": {
+      "title": "BUTTA ARCHIVE GRAPHIC TEE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "MINIMALIST BUTTA FLAME PRINT",
+        "VINTAGE WASHED FINISH",
+        "WIDE SLEEVE OPENING"
+      ],
+      "lining": "100% COMBED COTTON",
+      "pocket": "NONE",
+      "composition": "280 GSM RING-SPUN COTTON"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "GRAPHIC CAPSULE",
+    "hotspots": [
+      {
+        "id": "hs-7",
+        "x": 48,
+        "y": 52,
+        "label": "BUTTA",
+        "sublabel": "Azerbaijan heritage flame",
+        "value": "70$"
+      }
+    ],
+    "colors": [
+      "#0f0f10",
+      "#f4f1ea"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Archival print",
+      "Drop shoulder",
+      "Soft silicone wash"
+    ]
+  },
+  {
+    "id": "prod-07",
+    "code": "TZ-07",
+    "categoryNumber": "07",
+    "name": "SHIRVAN CARGO FLEECE JOGGERS",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 110,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "AUTUMN ARCHIVE 2026",
+    "category": "new-arrivals",
+    "featured": false,
+    "details": {
+      "title": "SHIRVAN CARGO FLEECE JOGGERS",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "MAGNETIC UTILITY BELLOW POCKETS",
+        "BUNGEE ANKLE CINCH SYSTEM",
+        "REINFORCED KNEE PANELS"
+      ],
+      "lining": "100% FRENCH TERRY",
+      "pocket": "4 POCKET UTILITY SYSTEM",
+      "composition": "420 GSM DURABLE TERRY"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "UTILITY DIVISION",
+    "hotspots": [
+      {
+        "id": "hs-8",
+        "x": 50,
+        "y": 55,
+        "label": "UTILITY",
+        "sublabel": "Magnetic cargo pocket",
+        "value": "110$"
+      }
+    ],
+    "colors": [
+      "#1c1b1f",
+      "#545350"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Custom magnetic pocket flaps",
+      "Ankle cinch toggles",
+      "Heavy organic terry"
+    ]
+  },
+  {
+    "id": "prod-08",
+    "code": "TZ-08",
+    "categoryNumber": "08",
+    "name": "CASPIAN TECH WINDBREAKER",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 195,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "DROP 01 // 2026",
+    "category": "new-arrivals",
+    "featured": true,
+    "details": {
+      "title": "CASPIAN TECH WINDBREAKER",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "WINDPROOF RIPSTOP NYLON",
+        "PACKABLE STORM HOOD",
+        "AQUAGUARD YKK ZIPPERS"
+      ],
+      "lining": "BREATHABLE MICRO-MESH",
+      "pocket": "3 ZIPPERED POCKETS",
+      "composition": "WATER-REPELLENT TECH FABRIC"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1544441893-675973e31985?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "WEATHERPROOF",
+    "hotspots": [
+      {
+        "id": "hs-9",
+        "x": 50,
+        "y": 48,
+        "label": "FABRIC",
+        "sublabel": "Ripstop wind-blocker",
+        "value": "195$"
+      }
+    ],
+    "colors": [
+      "#161618",
+      "#7e8387"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Storm-proof hood",
+      "Laser cut ventilation",
+      "Matte hardware"
+    ]
+  },
+  {
+    "id": "prod-09",
+    "code": "TZ-09",
+    "categoryNumber": "09",
+    "name": "MINIMALIST LOGO TEE (OFF-WHITE)",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 60,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "BESTSELLER ESSENTIAL",
+    "category": "t-shirts",
+    "featured": true,
+    "details": {
+      "title": "MINIMALIST LOGO TEE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "TONAL HIGH-DENSITY LOGO",
+        "PRE-SHRUNK RELAXED SILHOUETTE",
+        "SEAMLESS TUBULAR BODY"
+      ],
+      "lining": "100% COTTON",
+      "pocket": "NONE",
+      "composition": "260 GSM ORGANIC JERSEY"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "ESSENTIAL SERIES",
+    "hotspots": [
+      {
+        "id": "hs-10",
+        "x": 50,
+        "y": 45,
+        "label": "LOGO",
+        "sublabel": "Subtle micro embroidery",
+        "value": "60$"
+      }
+    ],
+    "colors": [
+      "#f7f4ed",
+      "#1e1e1e"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Heavy ribbed collar",
+      "Vintage raw feel",
+      "Colorfast reactive dye"
+    ]
+  },
+  {
+    "id": "prod-10",
+    "code": "TZ-10",
+    "categoryNumber": "10",
+    "name": "KARA KARAYEV CAPSULE HOODIE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 145,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "LIMITED COLLAB",
+    "category": "hoodies",
+    "featured": false,
+    "details": {
+      "title": "KARA KARAYEV CAPSULE HOODIE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "SYMPHONIC WAVE EMBROIDERY",
+        "450 GSM HEAVY BRUSHED COTTON",
+        "CUSTOM STEEL EYELETS"
+      ],
+      "lining": "100% COTTON FLEECE",
+      "pocket": "FRONT KANGAROO POCKET",
+      "composition": "450 GSM LUXURY FLEECE"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "/hoodie/hoodie-main.png",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "CULTURAL ARCHIVE",
+    "hotspots": [
+      {
+        "id": "hs-11",
+        "x": 50,
+        "y": 50,
+        "label": "EMBROIDERY",
+        "sublabel": "Musical frequency motif",
+        "value": "145$"
+      }
+    ],
+    "colors": [
+      "#141416",
+      "#c4b5a5"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Artistic cultural backpiece",
+      "Super heavyweight fleece",
+      "Custom gunmetal tips"
+    ]
+  },
+  {
+    "id": "prod-11",
+    "code": "TZ-11",
+    "categoryNumber": "11",
+    "name": "ATELIER KNIT BEANIE",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 45,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "ALL SEASONS",
+    "category": "bestsellers",
+    "featured": false,
+    "details": {
+      "title": "ATELIER KNIT BEANIE",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "100% MERINO WOOL BLEND",
+        "DOUBLE-LAYER RIBBED WEAVE",
+        "METALLIC LOGO BADGE"
+      ],
+      "lining": "MERINO WOOL",
+      "pocket": "NONE",
+      "composition": "PREMIUM MERINO BLEND"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "HEADWEAR",
+    "hotspots": [
+      {
+        "id": "hs-12",
+        "x": 50,
+        "y": 50,
+        "label": "WOOL",
+        "sublabel": "Merino thermal isolation",
+        "value": "45$"
+      }
+    ],
+    "colors": [
+      "#19191a",
+      "#d9d2c9"
+    ],
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "features": [
+      "Warm non-itch merino",
+      "Embossed alloy tag",
+      "Snug fit"
+    ]
+  },
+  {
+    "id": "prod-12",
+    "code": "TZ-12",
+    "categoryNumber": "12",
+    "name": "HEAVY VINTAGE WASHED CREWNECK",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 115,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "PERMANENT DROP",
+    "category": "hoodies",
+    "featured": false,
+    "details": {
+      "title": "HEAVY VINTAGE WASHED CREWNECK",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "SUN-FADED VINTAGE STONEWASH",
+        "DROPPED SHOULDERS",
+        "HEAVY ELASTICATED HEMS"
+      ],
+      "lining": "FRENCH TERRY",
+      "pocket": "NONE",
+      "composition": "420 GSM 100% COTTON"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "VINTAGE ATELIER",
+    "hotspots": [
+      {
+        "id": "hs-13",
+        "x": 50,
+        "y": 48,
+        "label": "STONEWASH",
+        "sublabel": "Unique hand-fade patina",
+        "value": "115$"
+      }
+    ],
+    "colors": [
+      "#4a4744",
+      "#8c8780"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "features": [
+      "Stonewash patina",
+      "Boxy modern fit",
+      "Heavy ribbing"
+    ]
+  },
+  {
+    "id": "prod-13",
+    "code": "TZ-13",
+    "categoryNumber": "13",
+    "name": "ATELIER LEATHER DUFFLE BAG",
+    "subtitle": "BY TERZME ATELIER",
+    "price": 285,
+    "currency": "$",
+    "designer": "TERZME DESIGN",
+    "season": "EXECUTIVE ARCHIVE",
+    "category": "new-arrivals",
+    "featured": true,
+    "details": {
+      "title": "ATELIER LEATHER DUFFLE BAG",
+      "studio": "BAKU ATELIER",
+      "era": "EDITION 2026",
+      "specs": [
+        "FULL-GRAIN VEGETABLE TANNED LEATHER",
+        "MATTE TITANIUM ZIPPER HARDWARE",
+        "WATER-RESISTANT LINING"
+      ],
+      "lining": "BALLISTIC NYLON",
+      "pocket": "INTERNAL LAPTOP & TRAVEL SLEEVE",
+      "composition": "100% FULL-GRAIN LEATHER"
+    },
+    "mainImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1200&auto=format&fit=crop",
+    "sideImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+    "sideTitle": "TERZME",
+    "sideSubtitle": "LEATHER GOODS",
+    "hotspots": [
+      {
+        "id": "hs-14",
+        "x": 50,
+        "y": 50,
+        "label": "LEATHER",
+        "sublabel": "Vegetable tanned Baku hide",
+        "value": "285$"
+      }
+    ],
+    "colors": [
+      "#111111",
+      "#4a3525"
+    ],
+    "sizes": [
+      "45L TRAVEL"
+    ],
+    "features": [
+      "Vegetable tanned premium leather",
+      "Titanium zippers",
+      "Detachable heavy shoulder strap"
+    ]
+  },
+  {
+    "id": "aggara-hoodie-01",
+    "code": "AG-HD-01",
+    "categoryNumber": "01",
+    "name": "MONOCHROME DECONSTRUCTED HOODIE",
+    "subtitle": "BY AG'GARA BAKU",
+    "price": 95,
+    "currency": "$",
+    "designer": "AG'GARA",
+    "vendorId": "ag-gara",
+    "vendorName": "AG'GARA",
+    "season": "WINTER ARCHIVE 2026",
+    "category": "geyim",
+    "mainCategory": "geyim",
+    "categories": [
+      "geyim",
+      "hoodies",
+      "monochrome"
+    ],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "#000000",
+      "#ffffff"
+    ],
+    "details": {
+      "title": "MONOCHROME HOODIE",
+      "studio": "AG'GARA ATELIER",
+      "era": "2026",
+      "specs": [
+        "DECONSTRUCTED CUT",
+        "RAW SEAMS"
+      ],
+      "lining": "100% COTTON",
+      "pocket": "HIDDEN",
+      "composition": "460 GSM COTTON"
+    },
+    "description": "Dekonstruktiv qara və ağ siluet. Premium parça və dəqiq tikiş.",
+    "features": [
+      "460 GSM Heavyweight Terry",
+      "Oversized Fit"
+    ]
+  },
+  {
+    "id": "sabah-hoodie-01",
+    "code": "SB-HD-01",
+    "categoryNumber": "02",
+    "name": "SABAH FC OFFICIAL SUPPORTER HOODIE",
+    "subtitle": "BY SABAH STORE",
+    "price": 85,
+    "currency": "$",
+    "designer": "SABAH STORE",
+    "vendorId": "sabah-store",
+    "vendorName": "SABAH STORE",
+    "season": "2025/2026 SEASON",
+    "category": "geyim",
+    "mainCategory": "geyim",
+    "categories": [
+      "geyim",
+      "hoodies",
+      "forma",
+      "idman geyimləri"
+    ],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=800&auto=format&fit=crop"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "#07241A",
+      "#ffffff"
+    ],
+    "details": {
+      "title": "SABAH HOODIE",
+      "studio": "SABAH ATELIER",
+      "era": "2026",
+      "specs": [
+        "OFFICIAL EMBLEM",
+        "KANGAROO POCKET"
+      ],
+      "lining": "100% COTTON",
+      "pocket": "STANDARD",
+      "composition": "420 GSM COTTON"
+    },
+    "description": "Sabah Futbol Klubu rəsmi azarkeş və idman kolleksiyası hoodiesi.",
+    "features": [
+      "Rəsmi loqo",
+      "İstilik saxlayan daxili təbəqə"
+    ]
+  },
+  {
+    "id": "urban-shoe-01",
+    "code": "UG-SH-01",
+    "categoryNumber": "03",
+    "name": "URBAN RUNNER TECH SNEAKERS",
+    "subtitle": "BY URBAN GOODS",
+    "price": 139,
+    "currency": "$",
+    "designer": "Urban Goods",
+    "vendorId": "urban-goods",
+    "vendorName": "Urban Goods",
+    "season": "URBAN DROP 2026",
+    "category": "ayaqqabi",
+    "mainCategory": "ayaqqabi",
+    "categories": [
+      "ayaqqabi",
+      "shoes",
+      "sneakers"
+    ],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?q=80&w=600&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?q=80&w=600&auto=format&fit=crop"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      "#111111",
+      "#e0e0e0"
+    ],
+    "details": {
+      "title": "URBAN RUNNER SNEAKERS",
+      "studio": "URBAN STUDIO",
+      "era": "2026",
+      "specs": [
+        "AIR VIBRAM SOLE",
+        "BREATHABLE MESH"
+      ],
+      "lining": "ORTHOLITE",
+      "pocket": "NONE",
+      "composition": "LEATHER & TECHNICAL MESH"
+    },
+    "description": "Yüksək keyfiyyətli amortizasiyalı şəhər krossovkası.",
+    "features": [
+      "Erqonomik daban",
+      "Nəfəs alan material"
+    ]
+  },
+  {
+    "id": "urban-bag-01",
+    "code": "UG-BG-01",
+    "categoryNumber": "04",
+    "name": "MATTE BLACK CITY BACKPACK",
+    "subtitle": "BY URBAN GOODS",
+    "price": 89,
+    "currency": "$",
+    "designer": "Urban Goods",
+    "vendorId": "urban-goods",
+    "vendorName": "Urban Goods",
+    "season": "URBAN DROP 2026",
+    "category": "aksesuar",
+    "mainCategory": "aksesuar",
+    "categories": [
+      "aksesuar",
+      "backpacks",
+      "accessories"
+    ],
+    "featured": true,
+    "mainImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop"
+    ],
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "details": {
+      "title": "CITY BACKPACK",
+      "studio": "URBAN GOODS",
+      "era": "2026",
+      "specs": [
+        "WATERPROOF MATTE SHELL",
+        "LAPTOP SLEEVE"
+      ],
+      "lining": "NYLON",
+      "pocket": "MULTIPLE",
+      "composition": "POLYURETHANE & CORDURA"
+    },
+    "description": "Su keçirməyən, 16 düymlük noutbuk bölməsi olan premium şəhər çantası.",
+    "features": [
+      "Su keçirməz",
+      "Erqonomik qayışlar"
+    ]
+  }
+]
