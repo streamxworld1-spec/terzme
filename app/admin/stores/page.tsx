@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { 
   Vendor, 
   getVendors, 
@@ -39,19 +39,14 @@ import {
   Image as ImageIcon
 } from "lucide-react";
 import confetti from "canvas-confetti";
-import { Suspense } from "react";
 
-function AdminStoresContent() {
+export default function AdminStoresPage() {
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const initialStatus = (searchParams?.get("status") as any) || "all";
 
   const [vendors, setVendors] = useState<Vendor[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState("");
-  const [statusFilter, setStatusFilter] = useState<"all" | "pending" | "active" | "suspended" | "rejected">(
-    ["all", "pending", "active", "suspended", "rejected"].includes(initialStatus) ? initialStatus : "all"
-  );
+  const [statusFilter, setStatusFilter] = useState<"all" | "pending" | "active" | "suspended" | "rejected">("all");
   const [activeTab, setActiveTab] = useState<"stores" | "new">("stores");
   const [editingVendor, setEditingVendor] = useState<Vendor | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -97,12 +92,15 @@ function AdminStoresContent() {
   }, []);
 
   useEffect(() => {
-    const status = searchParams?.get("status");
-    if (status && ["all", "pending", "active", "suspended", "rejected"].includes(status)) {
-      setStatusFilter(status as any);
-      setActiveTab("stores");
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const status = params.get("status");
+      if (status && ["all", "pending", "active", "suspended", "rejected"].includes(status)) {
+        setStatusFilter(status as any);
+        setActiveTab("stores");
+      }
     }
-  }, [searchParams]);
+  }, []);
 
   const resetForm = () => {
     setEditingVendor(null);
@@ -1026,13 +1024,5 @@ function AdminStoresContent() {
       )}
 
     </div>
-  );
-}
-
-export default function AdminStoresPage() {
-  return (
-    <Suspense fallback={<div className="p-8 text-xs font-mono text-neutral-400">Yüklənir...</div>}>
-      <AdminStoresContent />
-    </Suspense>
   );
 }

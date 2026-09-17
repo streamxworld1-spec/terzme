@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { useParams, useRouter, useSearchParams } from "next/navigation";
+import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { 
   Store, 
@@ -50,11 +50,9 @@ import { Product } from "@/data/products";
 import { ImageUploadField } from "@/components/ImageUploadField";
 import { CATEGORIES_DATA } from "@/data/mockupData";
 import { useAuth } from "@/context/AuthContext";
-import { Suspense } from "react";
 
-function VendorStoreAdminContent() {
+export default function VendorStoreAdminPage() {
   const params = useParams();
-  const searchParams = useSearchParams();
   const router = useRouter();
   const slug = params?.slug as string;
 
@@ -66,14 +64,17 @@ function VendorStoreAdminContent() {
 
   // Tab mapping for standard admin menu
   // "dashboard" | "products" | "stores" | "orders" | "customers" | "analytics" | "settings"
-  const tabParam = searchParams?.get("tab") || "dashboard";
-  const [activeTab, setActiveTab] = useState<string>(tabParam);
+  const [activeTab, setActiveTab] = useState<string>("dashboard");
 
   useEffect(() => {
-    if (tabParam) {
-      setActiveTab(tabParam);
+    if (typeof window !== "undefined") {
+      const searchParams = new URLSearchParams(window.location.search);
+      const tab = searchParams.get("tab");
+      if (tab) {
+        setActiveTab(tab);
+      }
     }
-  }, [tabParam]);
+  }, []);
 
   // Filter and search inside store products
   const [productSearch, setProductSearch] = useState("");
@@ -1588,13 +1589,5 @@ function VendorStoreAdminContent() {
         </div>
       )}
     </div>
-  );
-}
-
-export default function VendorStoreAdminPage() {
-  return (
-    <Suspense fallback={<div className="p-8 text-xs font-mono text-neutral-400">Yüklənir...</div>}>
-      <VendorStoreAdminContent />
-    </Suspense>
   );
 }
